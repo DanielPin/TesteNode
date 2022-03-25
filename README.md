@@ -20,7 +20,7 @@ Cadastrar Colaborador
 
 Método: POST
 
-localhost:3000/collaborators
+localhost:3000/collaborator
 
 Exemplo de cadastro:
 
@@ -41,7 +41,7 @@ Listar colaboradores
 
 Método: GET
 
-localhost:3000/collaborators
+localhost:3000/collaborator
 
 Exemplo de retorno:
 
@@ -70,7 +70,7 @@ Buscar Por Cpf
 
 Método: Get
  
-localhost:3000/collaborators/222222
+localhost:3000/collaborator/222222
 
 Exemplo de retorno:
 
@@ -92,7 +92,7 @@ Deletar colaborador
 
 Método: DELETE
  
-localhost:3000/collaborators/222222
+localhost:3000/collaborator/222222
 
 Exemplo de retorno:
 

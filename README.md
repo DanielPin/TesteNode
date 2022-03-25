@@ -2,7 +2,7 @@
 
 ## Teste Técnico
 
-Desenvolvimento para o posição de Backend NodeJs
+Desenvolvido para o posição de Backend NodeJs
 
 ## Requisitos para execução
 Ter o docker compose instalado

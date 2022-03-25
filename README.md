@@ -111,7 +111,7 @@ Exemplo de retorno:
 
 ## Scripts do banco de dados
 
-[Scripts](https://github.com/DanielPin/TesteNode/blob/master/ormconfig.js)
+[Script](https://github.com/DanielPin/TesteNode/blob/master/script.sql)
 
 ## Comando para executar os testes
 

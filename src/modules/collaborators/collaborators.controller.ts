@@ -11,7 +11,7 @@ import {
 import { CollaboratorsService } from './collaborators.service';
 import { CreateCollaboratorDTO } from './dto/create-collaborator.dto';
 
-@Controller('collaborators')
+@Controller('collaborator')
 export class CollaboratorsController {
   constructor(private readonly collaboratorService: CollaboratorsService) {}
 

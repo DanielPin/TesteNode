@@ -55,8 +55,8 @@ export class CollaboratorsService {
         newFormattedObject[data.sector.description] =
           newFormattedObject[data.sector.description] || [];
         newFormattedObject[data.sector.description].push({
+          name: data.name,
           email: data.email,
-          telefone: data.telephone,
         });
         return newFormattedObject;
       },
